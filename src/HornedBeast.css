@@ -8,8 +8,7 @@ article {
     margin-top: 1vw;
   }
   article img {
-    width: 100%
-    
+    width: 100%;
   }
 
   article p {
@@ -30,7 +29,7 @@ article {
     color: purple;
   }
   .article-button {
-    margin: .2rem .1vw;
+    margin: auto;
   }
 
   article :nth-of-type(19) {

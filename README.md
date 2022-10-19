@@ -1,10 +1,31 @@
-# README 
-Number and name of feature: 
+# README
 
-Estimate of time needed to complete: 
+Number and name of feature: 1. Display Images
 
-Start time: 
+Estimate of time needed to complete: 1.5 hours
 
-Finish time: 
+Start time: 3:00pm
 
-Actual time needed to complete: 
+Finish time: 4:30pm
+
+Actual time needed to complete: 1hr
+
+Number and name of feature: 2. Voting
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 4:30pm
+
+Finish time: 5:00pm
+
+Actual time needed to complete: 1hr
+
+Number and name of feature: 3. Bootstrap
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 5:30pm
+
+Finish time: 11:00pm (Break in between)
+
+Actual time needed to complete: 1 hr

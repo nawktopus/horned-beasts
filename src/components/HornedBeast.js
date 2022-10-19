@@ -36,9 +36,9 @@ class HornedBeast extends React.Component {
                 <h2>{this.props.keyword} </h2>
                 <img class="img-responsive" src={this.props.image_url} alt= {this.props._id} onClick={this.handleHearts}/>
                 <p> {this.props.description} </p>
-                <p> ❤️ {this.state.hearts} Hello</p>
+                <p> ❤️ {this.state.hearts} Fave</p>
                 <Button onClick={this.needsHelp} variant="danger" > Help! </Button>
-                <Button onClick={this.gotHelp} variant="success" > Never Mind! </Button>
+                <Button onClick={this.gotHelp} variant="success" > O.K. </Button>
                 <div>{this.state.helpMe ? 'I need help' : ''}</div>
             </article>
         )
