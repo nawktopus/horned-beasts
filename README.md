@@ -1,6 +1,6 @@
 # README
 
-Number and name of feature: 1. Display Images
+## Number and name of feature: 1. Display Images
 
 Estimate of time needed to complete: 1.5 hours
 
@@ -10,7 +10,7 @@ Finish time: 4:30pm
 
 Actual time needed to complete: 1hr
 
-Number and name of feature: 2. Voting
+## Number and name of feature: 2. Voting
 
 Estimate of time needed to complete: 30 mins
 
@@ -20,7 +20,7 @@ Finish time: 5:00pm
 
 Actual time needed to complete: 1hr
 
-Number and name of feature: 3. Bootstrap
+## Number and name of feature: 3. Bootstrap
 
 Estimate of time needed to complete: 1 hr
 
@@ -30,12 +30,12 @@ Finish time: 11:00pm (Break in between)
 
 Actual time needed to complete: 1 hr
 
-Number and name of feature: 4. Display a Modal
+## Number and name of feature: 4. Display a Modal
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 3 hours
 
-Start time:
+Start time: 8pm
 
-Finish time:
+Finish time: 11pm
 
-Actual time needed to complete:
+Actual time needed to complete:2 hours
