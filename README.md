@@ -29,3 +29,13 @@ Start time: 5:30pm
 Finish time: 11:00pm (Break in between)
 
 Actual time needed to complete: 1 hr
+
+Number and name of feature: 4. Display a Modal
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:
